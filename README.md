@@ -1,9 +1,5 @@
 # delani-studio
-This is a fictional studio. Have fun checking it out, it is really cool.
-
-## Getting started
-
-The website is still in development stage. Please wait, coming soon!
+This is a web design website. Have fun checking it out, it is really cool.
 
 ### Prerequisites
 
