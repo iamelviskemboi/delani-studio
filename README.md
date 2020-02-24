@@ -13,7 +13,7 @@ The website is still in development stage. Please wait, coming soon!
 
 ## Deployment
 
-The project is not yet deployed: ()
+The project is deployed: (https://iamelviskemboi.github.io/delani-studio)
 
 ## Built With
 
