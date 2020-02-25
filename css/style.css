@@ -128,7 +128,8 @@ html{
   color: white;
 }
 .title{
-  padding: 6px;
+  color: inherit;
+  padding: 5px;
 }
 .contact h2{
   text-align: center;
