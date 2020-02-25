@@ -25,7 +25,7 @@ The project is deployed: (https://iamelviskemboi.github.io/delani-studio)
 
 ## Authors
 
-* **Elvis Kemboi** - [iamelviskemboi] (https://github.com/iamelviskemboi)
+* **Elvis Kemboi** - [iamelviskemboi](https://github.com/iamelviskemboi)
 
 ## License
 
