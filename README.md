@@ -1,4 +1,4 @@
-# delani-studio
+# Delani Studio
 This is a web design website. Have fun checking it out, it is really cool.
 
 ## Getting Started
