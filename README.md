@@ -1,5 +1,5 @@
 # Delani Studio
-This is a web design website. Have fun checking it out, it is really cool.
+This is a web development website. You can see everything about us here; our fully-fledged projects Have fun checking it out, it is really cool.
 
 ## Getting Started
 
