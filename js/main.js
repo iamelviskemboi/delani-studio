@@ -91,8 +91,3 @@ $(document).ready(function(){
     $("#overlay8").hide();
   });
 });
-
-// This is the form section.
-function myFunction() {
-  alert("We have received your message. Thank you for contacting us.");
-}
