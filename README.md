@@ -3,7 +3,7 @@ This is a web development website. You can see everything about us here; our ful
 
 ## Getting Started
 
-You will want to see some of our project in the ```PORTFOLIO``` section.
+You will want to see some of our project in the ```PORTFOLIO``` sect ion.
 
 ### Prerequisites
 
